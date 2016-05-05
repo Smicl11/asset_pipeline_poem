@@ -6,4 +6,5 @@ body {
   padding: 5%;
   position: relative;
   width: 100%;
+  background-image: url('/assets/golden_gate.jpg');
 }
